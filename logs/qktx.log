@@ -1,0 +1,1268 @@
+[2018-11-06 15:43:46 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:63}-read config qktx.conf
+[2018-11-06 15:43:46 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:114}-read config finished.
+[2018-11-06 15:43:46 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 15:43:46 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 15:43:46 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-06 15:46:00 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:63}-read config qktx.conf
+[2018-11-06 15:46:00 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:114}-read config finished.
+[2018-11-06 15:46:00 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 15:46:00 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 15:46:00 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-06 15:46:01 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:66}-start to consumer user info...
+[2018-11-06 15:47:09 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:63}-read config qktx.conf
+[2018-11-06 15:47:09 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:114}-read config finished.
+[2018-11-06 15:47:09 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 15:47:09 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 15:47:09 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-06 15:47:10 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:66}-start to consumer user info...
+[2018-11-06 15:48:15 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:63}-read config qktx.conf
+[2018-11-06 15:48:15 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:114}-read config finished.
+[2018-11-06 15:48:16 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 15:48:16 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 15:48:18 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-06 15:48:41 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:66}-start to consumer user info...
+[2018-11-06 15:48:55 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:63}-read config qktx.conf
+[2018-11-06 15:48:55 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:114}-read config finished.
+[2018-11-06 15:48:55 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 15:48:55 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 15:48:55 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-06 15:48:55 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:66}-start to consumer user info...
+[2018-11-06 15:51:33 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:63}-read config qktx.conf
+[2018-11-06 15:51:33 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:114}-read config finished.
+[2018-11-06 15:51:33 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 15:51:33 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 15:51:37 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-06 15:51:37 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:66}-start to consumer user info...
+[2018-11-06 15:53:35 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:63}-read config qktx.conf
+[2018-11-06 15:53:35 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:114}-read config finished.
+[2018-11-06 15:53:35 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 15:53:35 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 15:53:35 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-06 15:53:35 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:66}-start to consumer user info...
+[2018-11-06 15:55:36 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:63}-read config qktx.conf
+[2018-11-06 15:55:36 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:114}-read config finished.
+[2018-11-06 15:55:37 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 15:55:37 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 15:55:37 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-06 15:55:37 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:66}-start to consumer user info...
+[2018-11-06 17:49:04 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:63}-read config qktx.conf
+[2018-11-06 17:49:04 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:114}-read config finished.
+[2018-11-06 17:49:04 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 17:49:04 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 17:49:05 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-06 17:49:05 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:66}-start to consumer user info...
+[2018-11-06 17:55:45 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:63}-read config qktx.conf
+[2018-11-06 17:55:45 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:114}-read config finished.
+[2018-11-06 17:55:45 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 17:55:45 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 17:55:47 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-06 17:55:51 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:66}-start to consumer user info...
+[2018-11-06 18:02:19 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:63}-read config qktx.conf
+[2018-11-06 18:02:19 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:114}-read config finished.
+[2018-11-06 18:02:19 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 18:02:19 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 18:02:19 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-06 18:02:20 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:66}-start to consumer user info...
+[2018-11-06 18:14:03 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:63}-read config qktx.conf
+[2018-11-06 18:14:03 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:114}-read config finished.
+[2018-11-06 18:14:03 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 18:14:03 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 18:14:03 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-06 18:14:04 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:66}-start to consumer user info...
+[2018-11-06 18:17:39 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:63}-read config qktx.conf
+[2018-11-06 18:17:39 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:114}-read config finished.
+[2018-11-06 18:17:39 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 18:17:39 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-06 18:17:39 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-06 18:17:39 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:66}-start to consumer user info...
+[2018-11-07 10:40:06 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:63}-read config qktx.conf
+[2018-11-07 10:40:06 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:114}-read config finished.
+[2018-11-07 10:40:06 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 10:40:06 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 10:40:06 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-07 10:40:06 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:66}-start to consumer user info...
+[2018-11-07 10:42:27 ERROR] [pool-1-thread-9] {com.qktx.master.apprentice.handle.MasterApprenticeSystemHandle:83}-userID has changed. befor update userID is:803607. after update userID is: 922243
+[2018-11-07 12:28:03 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:63}-read config qktx.conf
+[2018-11-07 12:28:03 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:114}-read config finished.
+[2018-11-07 12:28:03 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 12:28:03 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 12:28:03 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-07 12:28:04 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:66}-start to consumer user info...
+[2018-11-07 14:36:04 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:65}-read config qktx.conf
+[2018-11-07 14:36:04 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:117}-read config finished.
+[2018-11-07 14:36:04 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 14:36:04 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 14:36:04 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-07 14:36:04 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-07 14:36:05 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xe3cbed57] REGISTERED
+[2018-11-07 14:36:05 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xe3cbed57] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-07 14:36:05 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xe3cbed57, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-07 14:36:24 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:65}-read config qktx.conf
+[2018-11-07 14:36:24 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:117}-read config finished.
+[2018-11-07 14:36:24 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 14:36:24 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 14:36:24 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-07 14:36:24 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-07 14:36:24 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening8080
+[2018-11-07 14:36:25 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0fc28608] REGISTERED
+[2018-11-07 14:36:25 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0fc28608] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-07 14:36:25 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0fc28608, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-07 14:36:40 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:65}-read config qktx.conf
+[2018-11-07 14:36:40 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:117}-read config finished.
+[2018-11-07 14:36:40 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 14:36:41 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 14:36:41 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-07 14:36:41 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-07 14:36:41 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-07 14:36:42 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x75a112bb] REGISTERED
+[2018-11-07 14:36:42 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x75a112bb] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-07 14:36:42 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x75a112bb, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-07 14:36:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x75a112bb, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x90ac64f9, L:/127.0.0.1:8080 - R:/127.0.0.1:56021]
+[2018-11-07 14:36:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x75a112bb, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:36:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x75a112bb, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x3c62a8aa, L:/127.0.0.1:8080 - R:/127.0.0.1:56022]
+[2018-11-07 14:36:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x75a112bb, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:37:18 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:65}-read config qktx.conf
+[2018-11-07 14:37:18 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:117}-read config finished.
+[2018-11-07 14:37:18 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 14:37:18 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 14:37:19 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-07 14:37:19 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-07 14:37:19 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-07 14:37:20 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x8359716e] REGISTERED
+[2018-11-07 14:37:20 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x8359716e] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-07 14:37:20 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x8359716e, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-07 14:37:22 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x8359716e, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x7d52354d, L:/127.0.0.1:8080 - R:/127.0.0.1:56052]
+[2018-11-07 14:37:22 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x8359716e, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:37:22 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x8359716e, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x0981a7c9, L:/127.0.0.1:8080 - R:/127.0.0.1:56053]
+[2018-11-07 14:37:22 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x8359716e, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:40:08 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:65}-read config qktx.conf
+[2018-11-07 14:40:08 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:117}-read config finished.
+[2018-11-07 14:40:08 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 14:40:08 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 14:40:08 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-07 14:40:08 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-07 14:40:08 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-07 14:40:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f] REGISTERED
+[2018-11-07 14:40:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-07 14:40:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-07 14:40:11 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xc845eea5, L:/127.0.0.1:8080 - R:/127.0.0.1:56131]
+[2018-11-07 14:40:11 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:40:11 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x81045047, L:/127.0.0.1:8080 - R:/127.0.0.1:56132]
+[2018-11-07 14:40:11 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:40:12 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x0ae83d08, L:/127.0.0.1:8080 - R:/127.0.0.1:56133]
+[2018-11-07 14:40:12 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:40:12 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x7c132def, L:/127.0.0.1:8080 - R:/127.0.0.1:56134]
+[2018-11-07 14:40:12 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:40:15 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x1c516204, L:/127.0.0.1:8080 - R:/127.0.0.1:56139]
+[2018-11-07 14:40:15 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:40:15 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xde5096d0, L:/127.0.0.1:8080 - R:/127.0.0.1:56140]
+[2018-11-07 14:40:15 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:40:21 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x51a3ebea, L:/127.0.0.1:8080 - R:/127.0.0.1:56141]
+[2018-11-07 14:40:21 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:40:21 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xf003c18b, L:/127.0.0.1:8080 - R:/127.0.0.1:56142]
+[2018-11-07 14:40:21 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:40:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x4b097ff9, L:/127.0.0.1:8080 - R:/127.0.0.1:56144]
+[2018-11-07 14:40:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:40:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xc29cbf4b, L:/127.0.0.1:8080 - R:/127.0.0.1:56145]
+[2018-11-07 14:40:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:40:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x52ec5ad0, L:/127.0.0.1:8080 - R:/127.0.0.1:56146]
+[2018-11-07 14:40:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf979fe4f, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:42:23 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:65}-read config qktx.conf
+[2018-11-07 14:42:23 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:117}-read config finished.
+[2018-11-07 14:42:23 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 14:42:23 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 14:42:23 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-07 14:42:23 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-07 14:42:24 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-07 14:42:25 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb2fabf4e] REGISTERED
+[2018-11-07 14:42:25 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb2fabf4e] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-07 14:42:25 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb2fabf4e, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-07 14:42:29 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb2fabf4e, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x21354035, L:/127.0.0.1:8080 - R:/127.0.0.1:56202]
+[2018-11-07 14:42:29 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb2fabf4e, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:42:29 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb2fabf4e, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x1bf0bcbc, L:/127.0.0.1:8080 - R:/127.0.0.1:56203]
+[2018-11-07 14:42:29 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb2fabf4e, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:42:51 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb2fabf4e, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xeec9ff8f, L:/127.0.0.1:8080 - R:/127.0.0.1:56209]
+[2018-11-07 14:42:51 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb2fabf4e, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:43:33 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb2fabf4e, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x7054742c, L:/127.0.0.1:8080 - R:/127.0.0.1:56222]
+[2018-11-07 14:43:33 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb2fabf4e, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 14:43:44 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb2fabf4e, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xf68057f4, L:/127.0.0.1:8080 - R:/127.0.0.1:56227]
+[2018-11-07 14:43:44 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb2fabf4e, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 17:31:04 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:66}-read config qktx.conf
+[2018-11-07 17:31:04 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:121}-read config finished.
+[2018-11-07 17:31:05 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 17:31:05 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 17:31:05 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-07 17:31:05 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-07 17:31:05 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-07 17:31:06 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x3bed2adf] REGISTERED
+[2018-11-07 17:31:06 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x3bed2adf] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-07 17:31:06 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x3bed2adf, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-07 17:31:09 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:66}-read config qktx.conf
+[2018-11-07 17:31:09 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:121}-read config finished.
+[2018-11-07 17:31:10 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 17:31:10 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 17:31:10 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-07 17:31:10 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-07 17:31:11 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-07 17:31:12 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x24459cc9] REGISTERED
+[2018-11-07 17:31:12 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x24459cc9] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-07 17:31:12 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x24459cc9, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-07 17:33:43 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:66}-read config qktx.conf
+[2018-11-07 17:33:43 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:121}-read config finished.
+[2018-11-07 17:33:43 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 17:33:43 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 17:33:43 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-07 17:33:43 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-07 17:33:43 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-07 17:33:44 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xa706426c] REGISTERED
+[2018-11-07 17:33:44 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xa706426c] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-07 17:33:44 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xa706426c, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-07 17:35:58 ERROR] [pool-1-thread-7] {com.qktx.master.apprentice.handle.MasterApprenticeSystemHandle:166}-save userid to parent failed, userID: 10000001. parentUserID: 10000000
+[2018-11-07 17:37:32 ERROR] [pool-1-thread-8] {com.qktx.master.apprentice.handle.MasterApprenticeSystemHandle:166}-save userid to parent failed, userID: 10000001. parentUserID: 10000000
+[2018-11-07 17:47:21 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:66}-read config qktx.conf
+[2018-11-07 17:47:21 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:121}-read config finished.
+[2018-11-07 17:47:21 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 17:47:21 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 17:47:21 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-07 17:47:22 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-07 17:47:22 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-07 17:47:23 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf56b300e] REGISTERED
+[2018-11-07 17:47:23 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf56b300e] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-07 17:47:23 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf56b300e, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-07 17:47:46 ERROR] [pool-1-thread-6] {com.qktx.master.apprentice.handle.MasterApprenticeSystemHandle:169}-save userid to parent failed, userID: 10000001. parentUserID: 10000000
+[2018-11-07 17:55:11 ERROR] [pool-1-thread-5] {com.qktx.master.apprentice.handle.MasterApprenticeSystemHandle:169}-save userid to parent failed, userID: 10000005. parentUserID: 10000000
+[2018-11-07 17:55:20 ERROR] [pool-1-thread-6] {com.qktx.master.apprentice.handle.MasterApprenticeSystemHandle:169}-save userid to parent failed, userID: 10000005. parentUserID: 10000000
+[2018-11-07 18:06:50 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:66}-read config qktx.conf
+[2018-11-07 18:06:50 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:121}-read config finished.
+[2018-11-07 18:06:50 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 18:06:50 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 18:06:50 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-07 18:06:50 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-07 18:06:50 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-07 18:06:51 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xadf04872] REGISTERED
+[2018-11-07 18:06:51 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xadf04872] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-07 18:06:51 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xadf04872, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-07 18:07:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xadf04872, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xc881daef, L:/127.0.0.1:8080 - R:/127.0.0.1:59329]
+[2018-11-07 18:07:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xadf04872, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 18:07:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xadf04872, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x3af7c754, L:/127.0.0.1:8080 - R:/127.0.0.1:59330]
+[2018-11-07 18:07:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xadf04872, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 18:08:25 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:66}-read config qktx.conf
+[2018-11-07 18:08:25 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:121}-read config finished.
+[2018-11-07 18:08:25 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 18:08:25 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-07 18:08:25 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-07 18:08:25 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-07 18:08:25 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-07 18:08:26 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xcf2a3582] REGISTERED
+[2018-11-07 18:08:26 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xcf2a3582] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-07 18:08:26 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xcf2a3582, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-07 18:08:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xcf2a3582, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x477dfc7a, L:/127.0.0.1:8080 - R:/127.0.0.1:59378]
+[2018-11-07 18:08:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xcf2a3582, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 18:08:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xcf2a3582, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xbd64a107, L:/127.0.0.1:8080 - R:/127.0.0.1:59376]
+[2018-11-07 18:08:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xcf2a3582, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 18:08:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xcf2a3582, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x28c6a32b, L:/127.0.0.1:8080 - R:/127.0.0.1:59377]
+[2018-11-07 18:08:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xcf2a3582, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 18:08:57 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xcf2a3582, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x3eeb4add, L:/127.0.0.1:8080 - R:/127.0.0.1:59388]
+[2018-11-07 18:08:57 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xcf2a3582, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 18:09:14 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xcf2a3582, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x61fcaf34, L:/127.0.0.1:8080 - R:/127.0.0.1:59393]
+[2018-11-07 18:09:14 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xcf2a3582, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 18:09:28 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xcf2a3582, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x8fbf0c34, L:/127.0.0.1:8080 - R:/127.0.0.1:59397]
+[2018-11-07 18:09:28 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xcf2a3582, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-07 18:09:51 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xcf2a3582, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xdd2cc199, L:/127.0.0.1:8080 - R:/127.0.0.1:59404]
+[2018-11-07 18:09:51 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xcf2a3582, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 10:51:57 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:66}-read config qktx.conf
+[2018-11-08 10:51:57 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:120}-read config finished.
+[2018-11-08 10:51:57 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-08 10:51:57 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-08 10:51:57 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-08 10:51:57 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-08 10:51:59 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-08 10:52:01 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xdee97975] REGISTERED
+[2018-11-08 10:52:01 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xdee97975] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-08 10:52:01 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xdee97975, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-08 10:52:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xdee97975, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x0ca57423, L:/127.0.0.1:8080 - R:/127.0.0.1:50589]
+[2018-11-08 10:52:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xdee97975, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 10:52:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xdee97975, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x1c385310, L:/127.0.0.1:8080 - R:/127.0.0.1:50590]
+[2018-11-08 10:52:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xdee97975, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 10:52:45 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:66}-read config qktx.conf
+[2018-11-08 10:52:45 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:120}-read config finished.
+[2018-11-08 10:52:45 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-08 10:52:45 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-08 10:52:45 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-08 10:52:45 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-08 10:52:47 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-08 10:52:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x64a9e570] REGISTERED
+[2018-11-08 10:52:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x64a9e570] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-08 10:52:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x64a9e570, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-08 10:52:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x64a9e570, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x55a934de, L:/127.0.0.1:8080 - R:/127.0.0.1:50633]
+[2018-11-08 10:52:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x64a9e570, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 10:52:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x64a9e570, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xe33e0f88, L:/127.0.0.1:8080 - R:/127.0.0.1:50634]
+[2018-11-08 10:52:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x64a9e570, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 10:54:08 WARN ] [pool-1-thread-6] {com.qktx.master.apprentice.handle.MasterApprenticeSystemHandle:95}-parent_user_id has changed and befor update parent_user_Id is not -99. user_id is :803628, befor update parent_user_id is: 803615, after update parent_user_id is: 451720
+[2018-11-08 10:55:48 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x64a9e570, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xb59febb7, L:/127.0.0.1:8080 - R:/127.0.0.1:50668]
+[2018-11-08 10:55:48 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x64a9e570, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 11:00:07 WARN ] [pool-1-thread-7] {com.qktx.master.apprentice.handle.MasterApprenticeSystemHandle:95}-parent_user_id has changed and befor update parent_user_Id is not -99. user_id is :803628, befor update parent_user_id is: 451720, after update parent_user_id is: 803615
+[2018-11-08 11:00:29 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x64a9e570, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x274f8aeb, L:/127.0.0.1:8080 - R:/127.0.0.1:50729]
+[2018-11-08 11:00:29 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x64a9e570, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 11:02:31 WARN ] [pool-1-thread-8] {com.qktx.master.apprentice.handle.MasterApprenticeSystemHandle:95}-parent_user_id has changed and befor update parent_user_Id is not -99. user_id is :803628, befor update parent_user_id is: 803615, after update parent_user_id is: -99
+[2018-11-08 11:20:41 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:66}-read config qktx.conf
+[2018-11-08 11:20:41 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:120}-read config finished.
+[2018-11-08 11:20:41 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-08 11:21:33 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:66}-read config qktx.conf
+[2018-11-08 11:21:33 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:120}-read config finished.
+[2018-11-08 11:21:33 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-08 11:22:13 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:66}-read config qktx.conf
+[2018-11-08 11:22:13 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:120}-read config finished.
+[2018-11-08 11:22:13 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-08 14:42:48 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:66}-read config qktx.conf
+[2018-11-08 14:42:48 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:120}-read config finished.
+[2018-11-08 14:42:48 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-08 14:42:48 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-08 14:42:49 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-08 14:42:49 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-08 14:42:49 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-08 14:42:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441] REGISTERED
+[2018-11-08 14:42:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-08 14:42:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-08 14:42:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x47651786, L:/127.0.0.1:8080 - R:/127.0.0.1:52776]
+[2018-11-08 14:42:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:42:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x05e1f0ed, L:/127.0.0.1:8080 - R:/127.0.0.1:52777]
+[2018-11-08 14:42:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:44:17 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x821e8584, L:/127.0.0.1:8080 - R:/127.0.0.1:52789]
+[2018-11-08 14:44:17 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:44:32 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xac8c96fc, L:/127.0.0.1:8080 - R:/127.0.0.1:52794]
+[2018-11-08 14:44:32 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:45:14 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xeef06e05, L:/127.0.0.1:8080 - R:/127.0.0.1:52800]
+[2018-11-08 14:45:14 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:45:45 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x5343140b, L:/127.0.0.1:8080 - R:/127.0.0.1:52808]
+[2018-11-08 14:45:45 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:46:07 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xd6130779, L:/127.0.0.1:8080 - R:/127.0.0.1:52813]
+[2018-11-08 14:46:07 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:46:31 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x55cccbe0, L:/127.0.0.1:8080 - R:/127.0.0.1:52819]
+[2018-11-08 14:46:31 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:46:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x6c2dd3d4, L:/127.0.0.1:8080 - R:/127.0.0.1:52822]
+[2018-11-08 14:46:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xb9195441, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:47:22 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:66}-read config qktx.conf
+[2018-11-08 14:47:22 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:120}-read config finished.
+[2018-11-08 14:47:22 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-08 14:47:22 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-08 14:47:22 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-08 14:47:22 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-08 14:47:23 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-08 14:47:25 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xabc5886c] REGISTERED
+[2018-11-08 14:47:25 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xabc5886c] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-08 14:47:25 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xabc5886c, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-08 14:47:45 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:66}-read config qktx.conf
+[2018-11-08 14:47:45 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:120}-read config finished.
+[2018-11-08 14:47:45 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-08 14:47:45 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-08 14:47:45 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-08 14:47:45 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-08 14:47:46 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-08 14:47:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xdd970807] REGISTERED
+[2018-11-08 14:47:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xdd970807] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-08 14:47:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xdd970807, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-08 14:48:48 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xdd970807, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x60106e28, L:/127.0.0.1:8080 - R:/127.0.0.1:52884]
+[2018-11-08 14:48:48 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xdd970807, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:48:48 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xdd970807, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xaaa3179e, L:/127.0.0.1:8080 - R:/127.0.0.1:52885]
+[2018-11-08 14:48:48 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xdd970807, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:55:31 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:66}-read config qktx.conf
+[2018-11-08 14:55:31 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:120}-read config finished.
+[2018-11-08 14:55:31 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-08 14:55:32 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-08 14:55:32 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-08 14:55:32 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-08 14:55:33 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-08 14:55:35 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04] REGISTERED
+[2018-11-08 14:55:35 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-08 14:55:35 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-08 14:56:15 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x00122c6e, L:/127.0.0.1:8080 - R:/127.0.0.1:52968]
+[2018-11-08 14:56:15 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:56:15 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x37e769e3, L:/127.0.0.1:8080 - R:/127.0.0.1:52969]
+[2018-11-08 14:56:15 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:56:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x6209cf09, L:/127.0.0.1:8080 - R:/127.0.0.1:52973]
+[2018-11-08 14:56:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:57:06 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x0370e5bf, L:/127.0.0.1:8080 - R:/127.0.0.1:52979]
+[2018-11-08 14:57:06 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:57:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xbf54e6ec, L:/127.0.0.1:8080 - R:/127.0.0.1:52984]
+[2018-11-08 14:57:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:58:15 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xe86f73f8, L:/127.0.0.1:8080 - R:/127.0.0.1:52990]
+[2018-11-08 14:58:15 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:58:59 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x700b0e86, L:/127.0.0.1:8080 - R:/127.0.0.1:53000]
+[2018-11-08 14:58:59 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:59:29 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x17390ef3, L:/127.0.0.1:8080 - R:/127.0.0.1:53007]
+[2018-11-08 14:59:29 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 14:59:53 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xfeeaa80e, L:/127.0.0.1:8080 - R:/127.0.0.1:53011]
+[2018-11-08 14:59:53 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:00:08 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xa7035ecb, L:/127.0.0.1:8080 - R:/127.0.0.1:53017]
+[2018-11-08 15:00:08 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:00:51 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xa11927df, L:/127.0.0.1:8080 - R:/127.0.0.1:53023]
+[2018-11-08 15:00:51 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:01:45 WARN ] [pool-1-thread-5] {com.qktx.master.apprentice.handle.MasterApprenticeSystemHandle:95}-parent user id has changed, befor update parent_user_Id is not -99, after update parent_user_id is -99,user_id is :10000005, befor update parent_user_id is: 10000002, after update parent_user_id is: -99. release user master and apprentice
+[2018-11-08 15:02:24 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x2df93d14, L:/127.0.0.1:8080 - R:/127.0.0.1:53040]
+[2018-11-08 15:02:24 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:02:37 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xc502792c, L:/127.0.0.1:8080 - R:/127.0.0.1:53043]
+[2018-11-08 15:02:37 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:03:01 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x2dd7da5e, L:/127.0.0.1:8080 - R:/127.0.0.1:53046]
+[2018-11-08 15:03:01 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:03:14 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x863e9b00, L:/127.0.0.1:8080 - R:/127.0.0.1:53050]
+[2018-11-08 15:03:14 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:03:25 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xb8c0bcfa, L:/127.0.0.1:8080 - R:/127.0.0.1:53052]
+[2018-11-08 15:03:25 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:04:31 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xd04d96b8, L:/127.0.0.1:8080 - R:/127.0.0.1:53068]
+[2018-11-08 15:04:31 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:04:41 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x7628829a, L:/127.0.0.1:8080 - R:/127.0.0.1:53071]
+[2018-11-08 15:04:41 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:04:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x63dd99ec, L:/127.0.0.1:8080 - R:/127.0.0.1:53072]
+[2018-11-08 15:04:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:05:15 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x14d46800, L:/127.0.0.1:8080 - R:/127.0.0.1:53077]
+[2018-11-08 15:05:15 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:05:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x4fdad84c, L:/127.0.0.1:8080 - R:/127.0.0.1:53080]
+[2018-11-08 15:05:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:05:39 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x7cae8510, L:/127.0.0.1:8080 - R:/127.0.0.1:53081]
+[2018-11-08 15:05:39 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:06:38 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x75d68026, L:/127.0.0.1:8080 - R:/127.0.0.1:53092]
+[2018-11-08 15:06:38 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:07:06 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xc66d03c4, L:/127.0.0.1:8080 - R:/127.0.0.1:53097]
+[2018-11-08 15:07:06 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:07:20 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xa9cf19bd, L:/127.0.0.1:8080 - R:/127.0.0.1:53101]
+[2018-11-08 15:07:20 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:07:39 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x12ee7669, L:/127.0.0.1:8080 - R:/127.0.0.1:53104]
+[2018-11-08 15:07:39 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:08:06 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x36dd2993, L:/127.0.0.1:8080 - R:/127.0.0.1:53109]
+[2018-11-08 15:08:06 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:11:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x30486c46, L:/127.0.0.1:8080 - R:/127.0.0.1:53145]
+[2018-11-08 15:11:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:12:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x59b91a23, L:/127.0.0.1:8080 - R:/127.0.0.1:53148]
+[2018-11-08 15:12:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:12:34 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x7386050c, L:/127.0.0.1:8080 - R:/127.0.0.1:53151]
+[2018-11-08 15:12:34 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:13:00 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x8ed077d5, L:/127.0.0.1:8080 - R:/127.0.0.1:53156]
+[2018-11-08 15:13:00 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:17:30 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x816c1f65, L:/127.0.0.1:8080 - R:/127.0.0.1:53198]
+[2018-11-08 15:17:30 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:17:43 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xc9af894c, L:/127.0.0.1:8080 - R:/127.0.0.1:53204]
+[2018-11-08 15:17:43 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x76ae5d04, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:22:53 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:66}-read config qktx.conf
+[2018-11-08 15:22:53 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:120}-read config finished.
+[2018-11-08 15:22:53 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-08 15:22:53 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-08 15:22:54 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-08 15:22:54 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:67}-start to consumer user info...
+[2018-11-08 15:22:54 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-08 15:22:55 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929] REGISTERED
+[2018-11-08 15:22:55 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929] BIND: 0.0.0.0/0.0.0.0:8080
+[2018-11-08 15:22:55 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+[2018-11-08 15:23:18 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x246842b9, L:/127.0.0.1:8080 - R:/127.0.0.1:53279]
+[2018-11-08 15:23:18 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:23:18 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x2663d5cc, L:/127.0.0.1:8080 - R:/127.0.0.1:53280]
+[2018-11-08 15:23:18 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:24:17 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x4dd2d602, L:/127.0.0.1:8080 - R:/127.0.0.1:53287]
+[2018-11-08 15:24:17 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:24:30 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xf491467c, L:/127.0.0.1:8080 - R:/127.0.0.1:53293]
+[2018-11-08 15:24:30 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:24:40 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x7b170c46, L:/127.0.0.1:8080 - R:/127.0.0.1:53296]
+[2018-11-08 15:24:40 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:25:05 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xd1c21453, L:/127.0.0.1:8080 - R:/127.0.0.1:53300]
+[2018-11-08 15:25:05 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:25:19 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xd06f3103, L:/127.0.0.1:8080 - R:/127.0.0.1:53302]
+[2018-11-08 15:25:19 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:25:29 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x047d4b6b, L:/127.0.0.1:8080 - R:/127.0.0.1:53308]
+[2018-11-08 15:25:29 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:34:21 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x29f2ab3e, L:/127.0.0.1:8080 - R:/127.0.0.1:53404]
+[2018-11-08 15:34:21 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:34:21 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xdc0d5dd7, L:/127.0.0.1:8080 - R:/127.0.0.1:53405]
+[2018-11-08 15:34:21 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:34:48 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xb8cde2b5, L:/127.0.0.1:8080 - R:/127.0.0.1:53411]
+[2018-11-08 15:34:48 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:35:02 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x0c97c344, L:/127.0.0.1:8080 - R:/127.0.0.1:53414]
+[2018-11-08 15:35:02 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:35:33 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xc8f53fbc, L:/127.0.0.1:8080 - R:/127.0.0.1:53423]
+[2018-11-08 15:35:33 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:35:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xaf35b465, L:/127.0.0.1:8080 - R:/127.0.0.1:53424]
+[2018-11-08 15:35:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:36:04 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x7ddd60b6, L:/127.0.0.1:8080 - R:/127.0.0.1:53427]
+[2018-11-08 15:36:04 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:36:19 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x466be3d0, L:/127.0.0.1:8080 - R:/127.0.0.1:53430]
+[2018-11-08 15:36:19 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:36:31 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x15443c40, L:/127.0.0.1:8080 - R:/127.0.0.1:53433]
+[2018-11-08 15:36:31 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-08 15:36:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x38c7951a, L:/127.0.0.1:8080 - R:/127.0.0.1:53436]
+[2018-11-08 15:36:50 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b535929, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+[2018-11-13 15:43:34 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 15:43:34 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 15:43:34 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:43:34 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:43:34 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 15:43:34 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 15:43:34 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 15:43:35 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x4f579e89] REGISTERED
+[2018-11-13 15:43:35 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x4f579e89] BIND: /127.0.0.1:8080
+[2018-11-13 15:43:35 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x4f579e89, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 15:45:28 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 15:45:28 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 15:45:28 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:45:28 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:45:28 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 15:45:28 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 15:45:29 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 15:45:30 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x6dbf66b1] REGISTERED
+[2018-11-13 15:45:30 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x6dbf66b1] BIND: /127.0.0.1:8080
+[2018-11-13 15:45:30 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x6dbf66b1, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 15:46:25 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 15:46:25 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 15:46:25 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:46:25 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:46:25 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 15:46:25 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 15:46:25 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 15:46:26 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x40f04058] REGISTERED
+[2018-11-13 15:46:26 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x40f04058] BIND: /127.0.0.1:8080
+[2018-11-13 15:46:26 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x40f04058, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 15:48:39 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 15:48:39 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 15:48:39 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:48:40 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:48:40 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 15:48:55 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 15:48:56 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 15:48:57 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc8f7071b] REGISTERED
+[2018-11-13 15:48:57 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc8f7071b] BIND: /127.0.0.1:8080
+[2018-11-13 15:48:57 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc8f7071b, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 15:50:59 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 15:50:59 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 15:50:59 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:50:59 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:50:59 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 15:51:00 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:27}-init mysql jdbc connection pool.
+[2018-11-13 15:51:00 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 15:51:00 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 15:51:01 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x239e2630] REGISTERED
+[2018-11-13 15:51:01 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x239e2630] BIND: /127.0.0.1:8080
+[2018-11-13 15:51:01 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x239e2630, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 15:51:56 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 15:51:56 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 15:51:56 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:51:56 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:51:56 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 15:51:57 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:27}-init mysql jdbc connection pool.
+[2018-11-13 15:51:57 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 15:51:57 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 15:51:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x9f154095] REGISTERED
+[2018-11-13 15:51:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x9f154095] BIND: /127.0.0.1:8080
+[2018-11-13 15:51:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x9f154095, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 15:52:29 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 15:52:29 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 15:52:29 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:52:30 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:52:30 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 15:52:30 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:27}-init mysql jdbc connection pool.
+[2018-11-13 15:52:30 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 15:52:30 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 15:52:31 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x850ca121] REGISTERED
+[2018-11-13 15:52:31 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x850ca121] BIND: /127.0.0.1:8080
+[2018-11-13 15:52:31 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x850ca121, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 15:53:16 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 15:53:16 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 15:53:16 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:53:17 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:53:17 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 15:53:17 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:27}-init mysql jdbc connection pool.
+[2018-11-13 15:53:17 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 15:53:17 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 15:53:18 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x822134df] REGISTERED
+[2018-11-13 15:53:18 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x822134df] BIND: /127.0.0.1:8080
+[2018-11-13 15:53:18 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x822134df, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 15:54:11 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 15:54:11 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 15:54:11 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:54:12 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:54:12 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 15:54:12 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:27}-init mysql jdbc connection pool.
+[2018-11-13 15:54:12 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 15:54:12 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 15:54:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0aa9d568] REGISTERED
+[2018-11-13 15:54:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0aa9d568] BIND: /127.0.0.1:8080
+[2018-11-13 15:54:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0aa9d568, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 15:55:41 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 15:55:41 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 15:55:41 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:55:42 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:55:42 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 15:55:42 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:27}-init mysql jdbc connection pool.
+[2018-11-13 15:55:42 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 15:55:42 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 15:55:43 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x73419214] REGISTERED
+[2018-11-13 15:55:43 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x73419214] BIND: /127.0.0.1:8080
+[2018-11-13 15:55:43 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x73419214, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 15:57:01 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 15:57:01 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 15:57:01 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:57:01 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:57:01 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 15:57:01 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:27}-init mysql jdbc connection pool.
+[2018-11-13 15:57:01 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 15:57:01 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 15:57:02 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x818e55c7] REGISTERED
+[2018-11-13 15:57:02 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x818e55c7] BIND: /127.0.0.1:8080
+[2018-11-13 15:57:02 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x818e55c7, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 15:58:06 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 15:58:06 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 15:58:06 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:58:07 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 15:58:07 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 15:58:07 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:27}-init mysql jdbc connection pool.
+[2018-11-13 15:58:07 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 15:58:07 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 15:58:08 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x026739a2] REGISTERED
+[2018-11-13 15:58:08 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x026739a2] BIND: /127.0.0.1:8080
+[2018-11-13 15:58:08 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x026739a2, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 15:58:25 INFO ] [pool-1-thread-6] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-13 15:59:01 ERROR] [pool-1-thread-6] {com.qktx.master.apprentice.handle.DBHandler:66}-new register user's master and apprentice save failed, userID: 10000000. parentUserID: -99
+[2018-11-13 16:00:01 ERROR] [pool-1-thread-8] {com.qktx.master.apprentice.handle.DBHandler:66}-new register user's master and apprentice save failed, userID: 10000000. parentUserID: -99
+[2018-11-13 16:01:50 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 16:01:50 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 16:01:50 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 16:01:50 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 16:01:51 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 16:01:51 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:27}-init mysql jdbc connection pool.
+[2018-11-13 16:01:51 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 16:01:51 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 16:01:52 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0eac9356] REGISTERED
+[2018-11-13 16:01:52 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0eac9356] BIND: /127.0.0.1:8080
+[2018-11-13 16:01:52 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0eac9356, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 16:02:18 INFO ] [pool-1-thread-6] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-13 16:07:23 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 16:07:23 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 16:07:23 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 16:07:23 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 16:07:23 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 16:07:23 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-13 16:07:24 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-13 16:07:24 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 16:07:24 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 16:07:26 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf8f4439f] REGISTERED
+[2018-11-13 16:07:26 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf8f4439f] BIND: /127.0.0.1:8080
+[2018-11-13 16:07:26 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf8f4439f, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 16:07:50 ERROR] [pool-1-thread-7] {com.qktx.master.apprentice.handle.DBHandler:66}-new register user's master and apprentice save failed, userID: 10000001. parentUserID: 10000000
+[2018-11-13 16:07:54 ERROR] [pool-1-thread-8] {com.qktx.master.apprentice.handle.DBHandler:66}-new register user's master and apprentice save failed, userID: 10000002. parentUserID: 10000000
+[2018-11-13 16:07:57 ERROR] [pool-1-thread-9] {com.qktx.master.apprentice.handle.DBHandler:66}-new register user's master and apprentice save failed, userID: 10000003. parentUserID: 10000001
+[2018-11-13 16:08:00 ERROR] [pool-1-thread-10] {com.qktx.master.apprentice.handle.DBHandler:66}-new register user's master and apprentice save failed, userID: 10000004. parentUserID: 10000003
+[2018-11-13 16:08:11 ERROR] [pool-1-thread-11] {com.qktx.master.apprentice.handle.DBHandler:66}-new register user's master and apprentice save failed, userID: 10000004. parentUserID: 10000003
+[2018-11-13 16:13:03 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 16:13:03 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 16:13:03 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 16:13:03 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 16:13:03 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 16:13:03 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-13 16:13:04 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-13 16:13:04 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 16:13:05 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 16:13:06 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x1bd7e25b] REGISTERED
+[2018-11-13 16:13:06 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x1bd7e25b] BIND: /127.0.0.1:8080
+[2018-11-13 16:13:06 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x1bd7e25b, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 16:58:08 ERROR] [pool-1-thread-9] {com.qktx.master.apprentice.handle.DBHandler:99}-userID has changed. befor update userID is:10000005. after update userID is: 10000005
+[2018-11-13 17:00:36 WARN ] [pool-1-thread-10] {com.qktx.master.apprentice.handle.DBHandler:104}-parent user id has changed, befor update parent_user_Id is not -99, after update parent_user_id is -99,user_id is :10000005, befor update parent_user_id is: 10000002, after update parent_user_id is: -99. release user master and apprentice
+[2018-11-13 17:00:49 ERROR] [pool-1-thread-10] {com.qktx.master.apprentice.handle.DBHandler:112}-
+[2018-11-13 17:02:42 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 17:02:42 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 17:02:42 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 17:02:42 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 17:02:42 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 17:02:42 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-13 17:02:44 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-13 17:02:44 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 17:02:44 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 17:02:45 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5fe54120] REGISTERED
+[2018-11-13 17:02:45 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5fe54120] BIND: /127.0.0.1:8080
+[2018-11-13 17:02:45 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5fe54120, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 17:04:03 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 17:04:03 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 17:04:03 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 17:04:03 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 17:04:03 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 17:04:04 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-13 17:04:05 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-13 17:04:05 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 17:04:05 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 17:04:06 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x696058e5] REGISTERED
+[2018-11-13 17:04:06 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x696058e5] BIND: /127.0.0.1:8080
+[2018-11-13 17:04:06 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x696058e5, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 17:05:18 WARN ] [pool-1-thread-6] {com.qktx.master.apprentice.handle.DBHandler:98}-parent user id has changed, befor update parent_user_Id is not -99, after update parent_user_id is -99,user_id is :10000005, befor update parent_user_id is: 10000002, after update parent_user_id is: -99. release user master and apprentice
+[2018-11-13 17:05:29 ERROR] [pool-1-thread-6] {com.qktx.master.apprentice.handle.DBHandler:106}-
+[2018-11-13 17:07:17 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 17:07:17 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 17:07:17 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 17:07:17 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 17:07:17 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 17:07:17 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-13 17:07:18 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-13 17:07:18 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 17:07:19 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 17:07:20 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0efaede6] REGISTERED
+[2018-11-13 17:07:20 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0efaede6] BIND: /127.0.0.1:8080
+[2018-11-13 17:07:20 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0efaede6, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 17:09:04 WARN ] [pool-1-thread-10] {com.qktx.master.apprentice.handle.DBHandler:99}-parent user id has changed, befor update parent_user_Id is not -99, after update parent_user_id is -99,user_id is :10000005, befor update parent_user_id is: 10000002, after update parent_user_id is: -99. release user master and apprentice
+[2018-11-13 17:19:33 WARN ] [pool-1-thread-11] {com.qktx.master.apprentice.handle.DBHandler:99}-parent user id has changed, befor update parent_user_Id is not -99, after update parent_user_id is -99,user_id is :10000005, befor update parent_user_id is: 10000002, after update parent_user_id is: -99. release user master and apprentice
+[2018-11-13 17:23:24 ERROR] [pool-1-thread-11] {com.qktx.master.apprentice.handle.DBHandler:107}-
+[2018-11-13 17:25:12 WARN ] [pool-1-thread-12] {com.qktx.master.apprentice.handle.DBHandler:99}-parent user id has changed, befor update parent_user_Id is not -99, after update parent_user_id is -99,user_id is :10000005, befor update parent_user_id is: 10000002, after update parent_user_id is: -99. release user master and apprentice
+[2018-11-13 17:48:31 WARN ] [pool-1-thread-7] {com.qktx.master.apprentice.handle.DBHandler:99}-parent user id has changed, befor update parent_user_Id is not -99, after update parent_user_id is -99,user_id is :10000005, befor update parent_user_id is: 10000002, after update parent_user_id is: -99. release user master and apprentice
+[2018-11-13 17:54:29 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 17:54:29 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 17:54:29 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 17:54:29 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 17:54:29 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 17:54:29 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-13 17:54:30 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-13 17:54:30 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 17:54:31 WARN ] [pool-1-thread-6] {com.qktx.master.apprentice.handle.DBHandler:99}-parent user id has changed, befor update parent_user_Id is not -99, after update parent_user_id is -99,user_id is :10000005, befor update parent_user_id is: 10000002, after update parent_user_id is: -99. release user master and apprentice
+[2018-11-13 17:54:31 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 17:54:32 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7c5a92d] REGISTERED
+[2018-11-13 17:54:32 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7c5a92d] BIND: /127.0.0.1:8080
+[2018-11-13 17:54:32 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7c5a92d, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 17:56:45 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 17:56:45 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 17:56:45 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 17:56:46 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 17:56:46 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 17:56:46 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-13 17:56:48 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-13 17:56:48 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 17:56:48 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 17:56:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x543c5f6d] REGISTERED
+[2018-11-13 17:56:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x543c5f6d] BIND: /127.0.0.1:8080
+[2018-11-13 17:56:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x543c5f6d, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 18:05:47 ERROR] [pool-1-thread-7] {com.qktx.master.apprentice.handle.DBHandler:113}-
+[2018-11-13 18:06:58 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 18:06:58 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 18:06:58 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 18:06:58 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 18:06:59 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 18:06:59 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-13 18:07:00 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-13 18:07:00 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 18:07:00 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 18:07:01 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xddd1f265] REGISTERED
+[2018-11-13 18:07:01 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xddd1f265] BIND: /127.0.0.1:8080
+[2018-11-13 18:07:01 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xddd1f265, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 18:10:18 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 18:10:18 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 18:10:18 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 18:10:18 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 18:10:18 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 18:10:18 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-13 18:10:19 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-13 18:10:19 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 18:10:20 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 18:10:21 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x4c5ff859] REGISTERED
+[2018-11-13 18:10:21 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x4c5ff859] BIND: /127.0.0.1:8080
+[2018-11-13 18:10:21 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x4c5ff859, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 18:11:10 WARN ] [pool-1-thread-7] {com.qktx.master.apprentice.handle.DBHandler:99}-parent user id has changed, befor update parent_user_Id is not -99, after update parent_user_id is -99,user_id is :10000005, befor update parent_user_id is: 10000002, after update parent_user_id is: -99. release user master and apprentice
+[2018-11-13 18:46:33 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 18:46:33 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 18:46:33 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 18:46:34 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 18:46:34 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 18:46:34 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-13 18:46:35 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-13 18:46:35 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 18:46:35 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 18:46:36 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x6f4320c8] REGISTERED
+[2018-11-13 18:46:36 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x6f4320c8] BIND: /127.0.0.1:8080
+[2018-11-13 18:46:36 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x6f4320c8, L:/127.0.0.1:8080] ACTIVE
+[2018-11-13 18:48:14 WARN ] [pool-1-thread-7] {com.qktx.master.apprentice.handle.DBHandler:99}-parent user id has changed, befor update parent_user_Id is not -99, after update parent_user_id is -99,user_id is :10000005, befor update parent_user_id is: 10000002, after update parent_user_id is: -99. release user master and apprentice
+[2018-11-13 18:52:13 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-13 18:52:13 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-13 18:52:13 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 18:52:13 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-13 18:52:13 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-13 18:52:14 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-13 18:52:15 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-13 18:52:15 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-13 18:52:15 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-13 18:52:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0aaf2c41] REGISTERED
+[2018-11-13 18:52:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0aaf2c41] BIND: /127.0.0.1:8080
+[2018-11-13 18:52:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0aaf2c41, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 09:00:47 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 09:00:47 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 09:00:47 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 09:00:48 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 09:00:48 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 09:00:48 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 09:00:51 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 09:00:51 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 09:00:51 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-14 09:00:52 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x6af6cb23] REGISTERED
+[2018-11-14 09:00:52 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x6af6cb23] BIND: /127.0.0.1:8080
+[2018-11-14 09:00:52 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x6af6cb23, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 09:01:53 WARN ] [pool-1-thread-9] {com.qktx.master.apprentice.handle.DBHandler:99}-parent user id has changed, befor update parent_user_Id is not -99, after update parent_user_id is -99,user_id is :20000002, befor update parent_user_id is: 20000001, after update parent_user_id is: -99. release user master and apprentice
+[2018-11-14 09:08:13 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 09:08:13 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 09:08:13 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 09:08:13 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 09:08:13 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 09:08:14 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 09:08:15 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 09:08:15 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 09:08:15 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-14 09:08:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf945407c] REGISTERED
+[2018-11-14 09:08:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf945407c] BIND: /127.0.0.1:8080
+[2018-11-14 09:08:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xf945407c, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 09:12:41 ERROR] [pool-1-thread-11] {com.qktx.master.apprentice.handle.DBHandler:94}-userID has changed. befor update userID is:20000001. after update userID is: 20000002
+[2018-11-14 09:24:21 WARN ] [pool-1-thread-7] {com.qktx.master.apprentice.handle.DBHandler:99}-parent user id has changed, befor update parent_user_Id is not -99, after update parent_user_id is -99,user_id is :20000000, befor update parent_user_id is: 10000008, after update parent_user_id is: -99. release user master and apprentice
+[2018-11-14 09:27:02 WARN ] [pool-1-thread-10] {com.qktx.master.apprentice.handle.DBHandler:99}-parent user id has changed, befor update parent_user_Id is not -99, after update parent_user_id is -99,user_id is :20000000, befor update parent_user_id is: 10000009, after update parent_user_id is: -99. release user master and apprentice
+[2018-11-14 09:53:36 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 09:53:36 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 09:53:36 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 09:53:36 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 09:53:36 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 09:53:37 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 09:53:38 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 09:53:38 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 09:53:39 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:56}-http server listening: 8080
+[2018-11-14 09:53:40 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x67cf1f5a] REGISTERED
+[2018-11-14 09:53:40 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x67cf1f5a] BIND: /127.0.0.1:8080
+[2018-11-14 09:53:40 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x67cf1f5a, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 09:57:47 WARN ] [pool-1-thread-7] {com.qktx.master.apprentice.handle.DBHandler:99}-parent user id has changed, befor update parent_user_Id is not -99, after update parent_user_id is -99,user_id is :20000000, befor update parent_user_id is: 10000000, after update parent_user_id is: -99. release user master and apprentice
+[2018-11-14 09:58:09 WARN ] [pool-1-thread-8] {com.qktx.master.apprentice.handle.DBHandler:99}-parent user id has changed, befor update parent_user_Id is not -99, after update parent_user_id is -99,user_id is :20000001, befor update parent_user_id is: 20000000, after update parent_user_id is: -99. release user master and apprentice
+[2018-11-14 10:01:48 WARN ] [pool-1-thread-6] {com.qktx.master.apprentice.handle.DBHandler:99}-parent user id has changed, befor update parent_user_Id is not -99, after update parent_user_id is -99,user_id is :30000000, befor update parent_user_id is: 40000000, after update parent_user_id is: -99. release user master and apprentice
+[2018-11-14 13:51:29 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 13:51:29 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 13:51:29 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 13:51:29 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 13:51:29 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 13:51:29 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 13:51:30 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 13:51:30 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 13:51:31 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 13:51:32 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xafa545f8] REGISTERED
+[2018-11-14 13:51:32 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xafa545f8] BIND: /127.0.0.1:8080
+[2018-11-14 13:51:32 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xafa545f8, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 13:51:36 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 13:51:36 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 13:51:37 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 13:51:37 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 13:51:37 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 13:51:37 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 13:51:38 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 13:51:38 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 13:51:38 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 13:51:39 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc8160841] REGISTERED
+[2018-11-14 13:51:39 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc8160841] BIND: /127.0.0.1:8080
+[2018-11-14 13:51:39 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc8160841, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 13:52:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc8160841, L:/127.0.0.1:8080] READ: [id: 0xaecb3438, L:/127.0.0.1:8080 - R:/127.0.0.1:55119]
+[2018-11-14 13:52:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc8160841, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 13:52:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc8160841, L:/127.0.0.1:8080] READ: [id: 0x8010a81c, L:/127.0.0.1:8080 - R:/127.0.0.1:55120]
+[2018-11-14 13:52:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc8160841, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 13:53:01 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 13:53:01 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 13:53:01 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 13:53:01 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 13:53:01 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 13:53:02 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 13:53:03 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 13:53:03 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 13:53:03 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 13:53:04 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81] REGISTERED
+[2018-11-14 13:53:04 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81] BIND: /127.0.0.1:8080
+[2018-11-14 13:53:04 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 13:53:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] READ: [id: 0x4c7b3912, L:/127.0.0.1:8080 - R:/127.0.0.1:55164]
+[2018-11-14 13:53:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 13:53:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] READ: [id: 0x8fcc9746, L:/127.0.0.1:8080 - R:/127.0.0.1:55165]
+[2018-11-14 13:53:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 13:53:44 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] READ: [id: 0x355518b1, L:/127.0.0.1:8080 - R:/127.0.0.1:55175]
+[2018-11-14 13:53:44 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 13:53:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] READ: [id: 0x7d448cfe, L:/127.0.0.1:8080 - R:/127.0.0.1:55179]
+[2018-11-14 13:53:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 13:55:37 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] READ: [id: 0xe000ac81, L:/127.0.0.1:8080 - R:/127.0.0.1:55208]
+[2018-11-14 13:55:37 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 13:56:59 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] READ: [id: 0x89df740d, L:/127.0.0.1:8080 - R:/127.0.0.1:55231]
+[2018-11-14 13:56:59 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 13:57:48 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] READ: [id: 0x4ea4eebc, L:/127.0.0.1:8080 - R:/127.0.0.1:55246]
+[2018-11-14 13:57:48 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 13:58:23 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] READ: [id: 0xb7c27ded, L:/127.0.0.1:8080 - R:/127.0.0.1:55255]
+[2018-11-14 13:58:23 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 13:58:48 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] READ: [id: 0xdcdf8cd6, L:/127.0.0.1:8080 - R:/127.0.0.1:55264]
+[2018-11-14 13:58:48 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc7552b81, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 13:58:54 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 13:58:54 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 13:58:54 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 13:58:54 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 13:58:54 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 13:58:54 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 13:58:55 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 13:58:55 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 13:58:56 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 13:58:57 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x7411862c] REGISTERED
+[2018-11-14 13:58:57 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x7411862c] BIND: /127.0.0.1:8080
+[2018-11-14 13:58:57 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x7411862c, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 13:58:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x7411862c, L:/127.0.0.1:8080] READ: [id: 0xc9f864db, L:/127.0.0.1:8080 - R:/127.0.0.1:55304]
+[2018-11-14 13:58:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x7411862c, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 13:58:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x7411862c, L:/127.0.0.1:8080] READ: [id: 0x6950ebe4, L:/127.0.0.1:8080 - R:/127.0.0.1:55305]
+[2018-11-14 13:58:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x7411862c, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 13:59:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x7411862c, L:/127.0.0.1:8080] READ: [id: 0xe003e4eb, L:/127.0.0.1:8080 - R:/127.0.0.1:55309]
+[2018-11-14 13:59:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x7411862c, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:00:24 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 14:00:24 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 14:00:24 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 14:00:24 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 14:00:24 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 14:00:25 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 14:00:26 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 14:00:26 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 14:00:26 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 14:00:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b477fe9] REGISTERED
+[2018-11-14 14:00:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b477fe9] BIND: /127.0.0.1:8080
+[2018-11-14 14:00:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b477fe9, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 14:00:28 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b477fe9, L:/127.0.0.1:8080] READ: [id: 0xbd999751, L:/127.0.0.1:8080 - R:/127.0.0.1:55358]
+[2018-11-14 14:00:28 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b477fe9, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:00:28 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b477fe9, L:/127.0.0.1:8080] READ: [id: 0xcd9f8815, L:/127.0.0.1:8080 - R:/127.0.0.1:55359]
+[2018-11-14 14:00:28 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x2b477fe9, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:01:29 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 14:01:29 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 14:01:29 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 14:01:29 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 14:01:29 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 14:01:29 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 14:01:30 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 14:01:30 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 14:01:31 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 14:01:32 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x9c1805ad] REGISTERED
+[2018-11-14 14:01:32 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x9c1805ad] BIND: /127.0.0.1:8080
+[2018-11-14 14:01:32 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x9c1805ad, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 14:01:36 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x9c1805ad, L:/127.0.0.1:8080] READ: [id: 0xbf74bc85, L:/127.0.0.1:8080 - R:/127.0.0.1:55415]
+[2018-11-14 14:01:36 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x9c1805ad, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:01:36 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x9c1805ad, L:/127.0.0.1:8080] READ: [id: 0x7365249c, L:/127.0.0.1:8080 - R:/127.0.0.1:55416]
+[2018-11-14 14:01:36 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x9c1805ad, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:02:32 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 14:02:32 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 14:02:32 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 14:02:33 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 14:02:33 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 14:02:33 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 14:02:34 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 14:02:34 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 14:02:34 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 14:02:35 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xca87b7d5] REGISTERED
+[2018-11-14 14:02:35 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xca87b7d5] BIND: /127.0.0.1:8080
+[2018-11-14 14:02:35 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xca87b7d5, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 14:02:35 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xca87b7d5, L:/127.0.0.1:8080] READ: [id: 0xe346e461, L:/127.0.0.1:8080 - R:/127.0.0.1:55467]
+[2018-11-14 14:02:35 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xca87b7d5, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:02:35 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xca87b7d5, L:/127.0.0.1:8080] READ: [id: 0xabf56f25, L:/127.0.0.1:8080 - R:/127.0.0.1:55468]
+[2018-11-14 14:02:35 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xca87b7d5, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:03:10 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 14:03:10 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 14:03:10 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 14:03:10 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 14:03:10 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 14:03:10 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 14:03:11 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 14:03:11 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 14:03:12 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 14:03:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xa4ddd05d] REGISTERED
+[2018-11-14 14:03:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xa4ddd05d] BIND: /127.0.0.1:8080
+[2018-11-14 14:03:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xa4ddd05d, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 14:03:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xa4ddd05d, L:/127.0.0.1:8080] READ: [id: 0xf196ddbb, L:/127.0.0.1:8080 - R:/127.0.0.1:55508]
+[2018-11-14 14:03:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xa4ddd05d, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:03:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xa4ddd05d, L:/127.0.0.1:8080] READ: [id: 0x86642f4a, L:/127.0.0.1:8080 - R:/127.0.0.1:55509]
+[2018-11-14 14:03:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xa4ddd05d, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:03:25 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xa4ddd05d, L:/127.0.0.1:8080] READ: [id: 0x79c3b166, L:/127.0.0.1:8080 - R:/127.0.0.1:55512]
+[2018-11-14 14:03:25 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xa4ddd05d, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:20:58 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 14:20:58 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 14:20:59 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 14:20:59 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 14:20:59 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 14:20:59 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 14:21:00 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 14:21:00 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 14:21:00 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 14:21:02 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998] REGISTERED
+[2018-11-14 14:21:02 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998] BIND: /127.0.0.1:8080
+[2018-11-14 14:21:02 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 14:21:05 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ: [id: 0x953741d7, L:/127.0.0.1:8080 - R:/127.0.0.1:55827]
+[2018-11-14 14:21:05 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:21:05 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ: [id: 0xd6c342e5, L:/127.0.0.1:8080 - R:/127.0.0.1:55828]
+[2018-11-14 14:21:05 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:21:05 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ: [id: 0xbdf8ea97, L:/127.0.0.1:8080 - R:/127.0.0.1:55829]
+[2018-11-14 14:21:05 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:21:05 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ: [id: 0x05f7fb79, L:/127.0.0.1:8080 - R:/127.0.0.1:55830]
+[2018-11-14 14:21:05 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:21:11 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ: [id: 0x7dab5cbc, L:/127.0.0.1:8080 - R:/127.0.0.1:55833]
+[2018-11-14 14:21:11 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:21:11 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ: [id: 0xd997ca2f, L:/127.0.0.1:8080 - R:/127.0.0.1:55834]
+[2018-11-14 14:21:11 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:21:11 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ: [id: 0x84cebc42, L:/127.0.0.1:8080 - R:/127.0.0.1:55835]
+[2018-11-14 14:21:11 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:21:41 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ: [id: 0x14e393db, L:/127.0.0.1:8080 - R:/127.0.0.1:55845]
+[2018-11-14 14:21:41 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:21:41 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ: [id: 0x789b732e, L:/127.0.0.1:8080 - R:/127.0.0.1:55846]
+[2018-11-14 14:21:41 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:22:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ: [id: 0xe6fd6019, L:/127.0.0.1:8080 - R:/127.0.0.1:55851]
+[2018-11-14 14:22:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:22:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ: [id: 0x4cd95c37, L:/127.0.0.1:8080 - R:/127.0.0.1:55852]
+[2018-11-14 14:22:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x463e6998, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:35:18 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 14:35:18 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 14:35:18 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 14:35:18 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 14:35:18 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 14:35:18 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 14:35:19 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 14:35:19 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 14:35:20 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 14:35:21 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0d14f181] REGISTERED
+[2018-11-14 14:35:21 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0d14f181] BIND: /127.0.0.1:8080
+[2018-11-14 14:35:21 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0d14f181, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 14:35:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0d14f181, L:/127.0.0.1:8080] READ: [id: 0xbc44e970, L:/127.0.0.1:8080 - R:/127.0.0.1:56105]
+[2018-11-14 14:35:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0d14f181, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:35:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0d14f181, L:/127.0.0.1:8080] READ: [id: 0x1e9b49d2, L:/127.0.0.1:8080 - R:/127.0.0.1:56106]
+[2018-11-14 14:35:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x0d14f181, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:36:44 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 14:36:44 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 14:36:44 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 14:36:45 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 14:36:45 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 14:36:45 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 14:36:46 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 14:36:46 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 14:36:46 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 14:36:48 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xee5fdf83] REGISTERED
+[2018-11-14 14:36:48 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xee5fdf83] BIND: /127.0.0.1:8080
+[2018-11-14 14:36:48 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xee5fdf83, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 14:36:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xee5fdf83, L:/127.0.0.1:8080] READ: [id: 0x73f31f31, L:/127.0.0.1:8080 - R:/127.0.0.1:56162]
+[2018-11-14 14:36:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xee5fdf83, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:36:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xee5fdf83, L:/127.0.0.1:8080] READ: [id: 0xe571b7fe, L:/127.0.0.1:8080 - R:/127.0.0.1:56163]
+[2018-11-14 14:36:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xee5fdf83, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:37:19 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xee5fdf83, L:/127.0.0.1:8080] READ: [id: 0x60ada654, L:/127.0.0.1:8080 - R:/127.0.0.1:56175]
+[2018-11-14 14:37:19 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xee5fdf83, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:38:55 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 14:38:55 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 14:38:55 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 14:38:55 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 14:38:55 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 14:38:55 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 14:38:56 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 14:38:56 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 14:38:56 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 14:38:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x14955c4d] REGISTERED
+[2018-11-14 14:38:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x14955c4d] BIND: /127.0.0.1:8080
+[2018-11-14 14:38:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x14955c4d, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 14:39:00 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x14955c4d, L:/127.0.0.1:8080] READ: [id: 0x8577faf5, L:/127.0.0.1:8080 - R:/127.0.0.1:56227]
+[2018-11-14 14:39:00 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x14955c4d, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:39:00 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x14955c4d, L:/127.0.0.1:8080] READ: [id: 0xed72f87b, L:/127.0.0.1:8080 - R:/127.0.0.1:56228]
+[2018-11-14 14:39:00 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x14955c4d, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:39:24 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x14955c4d, L:/127.0.0.1:8080] READ: [id: 0xe944dce5, L:/127.0.0.1:8080 - R:/127.0.0.1:56236]
+[2018-11-14 14:39:24 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x14955c4d, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:40:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x14955c4d, L:/127.0.0.1:8080] READ: [id: 0xd0755c11, L:/127.0.0.1:8080 - R:/127.0.0.1:56249]
+[2018-11-14 14:40:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x14955c4d, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 14:41:17 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x14955c4d, L:/127.0.0.1:8080] READ: [id: 0x0247880a, L:/127.0.0.1:8080 - R:/127.0.0.1:56267]
+[2018-11-14 14:41:17 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x14955c4d, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:38:23 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 15:38:23 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 15:38:23 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:38:23 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:38:23 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 15:38:23 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 15:38:25 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 15:38:25 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 15:38:25 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 15:38:26 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4] REGISTERED
+[2018-11-14 15:38:26 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4] BIND: /127.0.0.1:8080
+[2018-11-14 15:38:26 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 15:38:36 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4, L:/127.0.0.1:8080] READ: [id: 0xe1409631, L:/127.0.0.1:8080 - R:/127.0.0.1:57106]
+[2018-11-14 15:38:36 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:38:36 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4, L:/127.0.0.1:8080] READ: [id: 0xf30c3852, L:/127.0.0.1:8080 - R:/127.0.0.1:57107]
+[2018-11-14 15:38:36 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:38:36 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4, L:/127.0.0.1:8080] READ: [id: 0x3d863414, L:/127.0.0.1:8080 - R:/127.0.0.1:57108]
+[2018-11-14 15:38:36 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:38:37 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4, L:/127.0.0.1:8080] READ: [id: 0x08c5c82b, L:/127.0.0.1:8080 - R:/127.0.0.1:57109]
+[2018-11-14 15:38:37 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:38:42 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4, L:/127.0.0.1:8080] READ: [id: 0x0c675f7a, L:/127.0.0.1:8080 - R:/127.0.0.1:57112]
+[2018-11-14 15:38:42 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:38:42 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4, L:/127.0.0.1:8080] READ: [id: 0x4bae9a48, L:/127.0.0.1:8080 - R:/127.0.0.1:57113]
+[2018-11-14 15:38:42 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:39:04 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4, L:/127.0.0.1:8080] READ: [id: 0xbafb120b, L:/127.0.0.1:8080 - R:/127.0.0.1:57121]
+[2018-11-14 15:39:04 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:39:04 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4, L:/127.0.0.1:8080] READ: [id: 0x294abadf, L:/127.0.0.1:8080 - R:/127.0.0.1:57122]
+[2018-11-14 15:39:04 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x05d241b4, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:39:50 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 15:39:50 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 15:39:50 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:39:51 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:39:51 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 15:39:51 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 15:39:53 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 15:39:53 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 15:39:56 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 15:39:56 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 15:39:56 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:39:56 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:39:56 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 15:39:57 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 15:39:58 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 15:39:58 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 15:39:58 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 15:39:59 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5e113a70] REGISTERED
+[2018-11-14 15:39:59 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5e113a70] BIND: /127.0.0.1:8080
+[2018-11-14 15:39:59 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5e113a70, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 15:40:01 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5e113a70, L:/127.0.0.1:8080] READ: [id: 0x4c4d9c6e, L:/127.0.0.1:8080 - R:/127.0.0.1:57178]
+[2018-11-14 15:40:01 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5e113a70, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:40:01 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5e113a70, L:/127.0.0.1:8080] READ: [id: 0xc05b01d4, L:/127.0.0.1:8080 - R:/127.0.0.1:57179]
+[2018-11-14 15:40:01 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5e113a70, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:41:54 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 15:41:54 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 15:41:54 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:41:55 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:41:55 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 15:41:55 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 15:41:56 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 15:41:56 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 15:41:57 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 15:41:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x6643aae5] REGISTERED
+[2018-11-14 15:41:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x6643aae5] BIND: /127.0.0.1:8080
+[2018-11-14 15:41:58 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x6643aae5, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 15:42:00 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x6643aae5, L:/127.0.0.1:8080] READ: [id: 0x0a264a40, L:/127.0.0.1:8080 - R:/127.0.0.1:57240]
+[2018-11-14 15:42:00 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x6643aae5, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:42:00 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x6643aae5, L:/127.0.0.1:8080] READ: [id: 0xb2452794, L:/127.0.0.1:8080 - R:/127.0.0.1:57241]
+[2018-11-14 15:42:00 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x6643aae5, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:42:37 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x6643aae5, L:/127.0.0.1:8080] READ: [id: 0x5931cb13, L:/127.0.0.1:8080 - R:/127.0.0.1:57252]
+[2018-11-14 15:42:37 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x6643aae5, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:44:13 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 15:44:13 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 15:44:13 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:44:13 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:44:13 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 15:44:13 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 15:44:14 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 15:44:14 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 15:44:15 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 15:44:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5bd52f7b] REGISTERED
+[2018-11-14 15:44:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5bd52f7b] BIND: /127.0.0.1:8080
+[2018-11-14 15:44:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5bd52f7b, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 15:44:17 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5bd52f7b, L:/127.0.0.1:8080] READ: [id: 0xdc64a400, L:/127.0.0.1:8080 - R:/127.0.0.1:57307]
+[2018-11-14 15:44:17 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5bd52f7b, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:44:17 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5bd52f7b, L:/127.0.0.1:8080] READ: [id: 0x0cf93f6c, L:/127.0.0.1:8080 - R:/127.0.0.1:57308]
+[2018-11-14 15:44:17 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5bd52f7b, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:45:22 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5bd52f7b, L:/127.0.0.1:8080] READ: [id: 0x80cf1e3a, L:/127.0.0.1:8080 - R:/127.0.0.1:57323]
+[2018-11-14 15:45:22 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5bd52f7b, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:46:34 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5bd52f7b, L:/127.0.0.1:8080] READ: [id: 0x8905a5a7, L:/127.0.0.1:8080 - R:/127.0.0.1:57340]
+[2018-11-14 15:46:34 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5bd52f7b, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:46:34 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5bd52f7b, L:/127.0.0.1:8080] READ: [id: 0x42c840fb, L:/127.0.0.1:8080 - R:/127.0.0.1:57341]
+[2018-11-14 15:46:34 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5bd52f7b, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:46:38 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5bd52f7b, L:/127.0.0.1:8080] READ: [id: 0x19b89a55, L:/127.0.0.1:8080 - R:/127.0.0.1:57342]
+[2018-11-14 15:46:38 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x5bd52f7b, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:46:46 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 15:46:46 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 15:46:46 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:46:46 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:46:46 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 15:46:46 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 15:46:47 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 15:46:48 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 15:46:48 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 15:46:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc3921719] REGISTERED
+[2018-11-14 15:46:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc3921719] BIND: /127.0.0.1:8080
+[2018-11-14 15:46:49 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc3921719, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 15:46:51 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc3921719, L:/127.0.0.1:8080] READ: [id: 0xbd59240d, L:/127.0.0.1:8080 - R:/127.0.0.1:57383]
+[2018-11-14 15:46:51 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc3921719, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:46:51 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc3921719, L:/127.0.0.1:8080] READ: [id: 0xcf509853, L:/127.0.0.1:8080 - R:/127.0.0.1:57384]
+[2018-11-14 15:46:51 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xc3921719, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:48:12 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 15:48:12 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 15:48:12 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:48:12 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:48:12 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 15:48:12 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 15:48:14 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 15:48:14 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 15:48:14 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 15:48:15 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xd09c3cd4] REGISTERED
+[2018-11-14 15:48:15 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xd09c3cd4] BIND: /127.0.0.1:8080
+[2018-11-14 15:48:15 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xd09c3cd4, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 15:48:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xd09c3cd4, L:/127.0.0.1:8080] READ: [id: 0xca1475ad, L:/127.0.0.1:8080 - R:/127.0.0.1:57434]
+[2018-11-14 15:48:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xd09c3cd4, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:48:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xd09c3cd4, L:/127.0.0.1:8080] READ: [id: 0x51d308bb, L:/127.0.0.1:8080 - R:/127.0.0.1:57435]
+[2018-11-14 15:48:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xd09c3cd4, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:50:12 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 15:50:12 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 15:50:12 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:50:12 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:50:12 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 15:50:12 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 15:50:13 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 15:50:13 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 15:50:14 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 15:50:14 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x983f99a8] REGISTERED
+[2018-11-14 15:50:14 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x983f99a8] BIND: /127.0.0.1:8080
+[2018-11-14 15:50:14 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x983f99a8, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 15:50:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x983f99a8, L:/127.0.0.1:8080] READ: [id: 0x2244d51c, L:/127.0.0.1:8080 - R:/127.0.0.1:57492]
+[2018-11-14 15:50:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x983f99a8, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:50:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x983f99a8, L:/127.0.0.1:8080] READ: [id: 0x9ba06452, L:/127.0.0.1:8080 - R:/127.0.0.1:57493]
+[2018-11-14 15:50:16 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x983f99a8, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:50:17 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x983f99a8, L:/127.0.0.1:8080] READ: [id: 0x35729f5a, L:/127.0.0.1:8080 - R:/127.0.0.1:57494]
+[2018-11-14 15:50:17 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x983f99a8, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:51:09 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 15:51:09 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 15:51:09 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:51:09 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:51:09 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 15:51:09 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 15:51:10 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 15:51:10 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 15:51:10 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 15:51:11 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xebdb12cb] REGISTERED
+[2018-11-14 15:51:11 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xebdb12cb] BIND: /127.0.0.1:8080
+[2018-11-14 15:51:11 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xebdb12cb, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 15:51:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xebdb12cb, L:/127.0.0.1:8080] READ: [id: 0x84e8d605, L:/127.0.0.1:8080 - R:/127.0.0.1:57533]
+[2018-11-14 15:51:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xebdb12cb, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:51:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xebdb12cb, L:/127.0.0.1:8080] READ: [id: 0x28f772c2, L:/127.0.0.1:8080 - R:/127.0.0.1:57534]
+[2018-11-14 15:51:13 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0xebdb12cb, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:51:27 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:79}-read config qktx.conf
+[2018-11-14 15:51:27 INFO ] [main] {com.qktx.master.apprentice.config.MasterApprenticeConfig:154}-read config finished.
+[2018-11-14 15:51:27 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:51:27 INFO ] [main] {com.qktx.master.apprentice.queue.RabbitClient:24}-init rabbitMQ client.
+[2018-11-14 15:51:27 INFO ] [main] {com.qktx.master.apprentice.jedis.RedisClient:23}-init redis client info.
+[2018-11-14 15:51:28 INFO ] [main] {com.qktx.master.apprentice.mysql.MySQLClient:28}-init mysql jdbc connection pool.
+[2018-11-14 15:51:29 INFO ] [main] {com.alibaba.druid.pool.DruidDataSource:854}-{dataSource-1} inited
+[2018-11-14 15:51:29 INFO ] [main] {com.qktx.master.apprentice.main.MasterApprenticeSystemMain:72}-start to consumer user info...
+[2018-11-14 15:51:29 INFO ] [Thread-1] {com.qktx.master.apprentice.http.MasterApprenticeSystemHttpServer:59}-http server listening: 8080
+[2018-11-14 15:51:30 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e] REGISTERED
+[2018-11-14 15:51:30 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e] BIND: /127.0.0.1:8080
+[2018-11-14 15:51:30 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] ACTIVE
+[2018-11-14 15:51:32 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ: [id: 0xab2f97bf, L:/127.0.0.1:8080 - R:/127.0.0.1:57567]
+[2018-11-14 15:51:32 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:51:32 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ: [id: 0x7f5133b8, L:/127.0.0.1:8080 - R:/127.0.0.1:57568]
+[2018-11-14 15:51:32 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:51:46 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ: [id: 0xde869b68, L:/127.0.0.1:8080 - R:/127.0.0.1:57572]
+[2018-11-14 15:51:46 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:53:43 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ: [id: 0x908de0a5, L:/127.0.0.1:8080 - R:/127.0.0.1:57602]
+[2018-11-14 15:53:43 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:53:57 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ: [id: 0x85af6617, L:/127.0.0.1:8080 - R:/127.0.0.1:57606]
+[2018-11-14 15:53:57 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:54:26 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ: [id: 0x10bd469c, L:/127.0.0.1:8080 - R:/127.0.0.1:57615]
+[2018-11-14 15:54:26 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:54:39 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ: [id: 0x5e4e1700, L:/127.0.0.1:8080 - R:/127.0.0.1:57621]
+[2018-11-14 15:54:39 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:55:23 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ: [id: 0x600cf7dc, L:/127.0.0.1:8080 - R:/127.0.0.1:57634]
+[2018-11-14 15:55:23 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:56:02 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ: [id: 0xda0df7a4, L:/127.0.0.1:8080 - R:/127.0.0.1:57647]
+[2018-11-14 15:56:02 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:56:18 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ: [id: 0xf946e54f, L:/127.0.0.1:8080 - R:/127.0.0.1:57651]
+[2018-11-14 15:56:18 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:57:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ: [id: 0x554cf3df, L:/127.0.0.1:8080 - R:/127.0.0.1:57668]
+[2018-11-14 15:57:27 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:57:40 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ: [id: 0xa07cecf7, L:/127.0.0.1:8080 - R:/127.0.0.1:57674]
+[2018-11-14 15:57:40 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:58:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ: [id: 0x4674c5ef, L:/127.0.0.1:8080 - R:/127.0.0.1:57681]
+[2018-11-14 15:58:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:59:17 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ: [id: 0x4e43c795, L:/127.0.0.1:8080 - R:/127.0.0.1:57710]
+[2018-11-14 15:59:17 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 15:59:46 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ: [id: 0x88ddd739, L:/127.0.0.1:8080 - R:/127.0.0.1:57720]
+[2018-11-14 15:59:46 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 16:01:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ: [id: 0xcccdcf6c, L:/127.0.0.1:8080 - R:/127.0.0.1:57746]
+[2018-11-14 16:01:09 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 16:03:17 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ: [id: 0xdcfad79b, L:/127.0.0.1:8080 - R:/127.0.0.1:57790]
+[2018-11-14 16:03:17 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ COMPLETE
+[2018-11-14 16:04:00 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ: [id: 0x1d57f2d6, L:/127.0.0.1:8080 - R:/127.0.0.1:57805]
+[2018-11-14 16:04:00 INFO ] [nioEventLoopGroup-2-1] {io.netty.handler.logging.LoggingHandler:150}-[id: 0x55bc6b1e, L:/127.0.0.1:8080] READ COMPLETE
