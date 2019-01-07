@@ -74,6 +74,12 @@ public class MasterApprenticeSystemHttpServerHandler extends SimpleChannelInboun
 
 	}
 
+	public MasterApprenticeSystemHttpServerHandler(MasterApprenticeConfig config, MySQLClient mysqlClient) {
+		this.config = config;
+		this.mysqlClient = mysqlClient;
+
+	}
+
 	@Override
 	public void channelReadComplete(ChannelHandlerContext ctx) {
 		ctx.flush();

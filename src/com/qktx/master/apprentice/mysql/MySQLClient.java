@@ -4,8 +4,6 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.sql.Timestamp;
-import java.util.Date;
 
 import org.apache.log4j.Logger;
 
@@ -171,6 +169,32 @@ public class MySQLClient {
 	}
 
 	public static void main(String args[]) {
-		System.out.println(new Timestamp(new Date().getTime()).toString());
+		// System.out.println(new Timestamp(new Date().getTime()).toString());
+		MasterApprenticeConfig config = new MasterApprenticeConfig();
+		MySQLClient mysqlClient = new MySQLClient(config);
+		DruidPooledConnection con = null;
+		PreparedStatement ps = null;
+		ResultSet rs = null;
+		try {
+			con = mysqlClient.getDataSource().getConnection();
+			con.setAutoCommit(false);
+			ps = con.prepareStatement("select connection_id()");
+			rs = ps.executeQuery();
+			while (rs.next()) {
+				System.out.println("current mysql connection id: " + rs.getInt(1));
+			}
+			rs.close();
+			ps.close();
+			ps = con.prepareStatement("select id,sleep(235) from wuhp.w limit 1");
+			ps.executeQuery();
+			Thread.sleep(240 * 1000);
+		} catch (SQLException e) {
+			e.printStackTrace();
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} finally {
+			mysqlClient.close(con, ps);
+		}
 	}
 }

@@ -36,6 +36,11 @@ public class MasterApprenticeSystemHttpServer extends Thread implements Runnable
 	private MasterApprenticeConfig config;
 	private MySQLClient mysqlClient;
 
+	public MasterApprenticeSystemHttpServer(MasterApprenticeConfig config, MySQLClient mysqlClient) {
+		this.config = config;
+		this.mysqlClient = mysqlClient;
+	}
+
 	public MasterApprenticeSystemHttpServer(MasterApprenticeConfig config, JedisPool jedisPool,
 			MySQLClient mysqlClient) {
 		this.config = config;
@@ -52,7 +57,9 @@ public class MasterApprenticeSystemHttpServer extends Thread implements Runnable
 			b.option(ChannelOption.SO_BACKLOG, 1024);
 			b.group(bossGroup, workerGroup).channel(NioServerSocketChannel.class)
 					.handler(new LoggingHandler(LogLevel.INFO))
-					.childHandler(new MasterApprenticeSystemHttpServerInitializer(config, jedisPool,mysqlClient));
+					.childHandler(new MasterApprenticeSystemHttpServerInitializer(config, mysqlClient));
+			// .childHandler(new MasterApprenticeSystemHttpServerInitializer(config,
+			// jedisPool, mysqlClient));
 
 			Channel ch;
 			try {

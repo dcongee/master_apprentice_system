@@ -31,10 +31,17 @@ public class MasterApprenticeSystemHttpServerInitializer extends ChannelInitiali
 	private MasterApprenticeConfig config;
 	private MySQLClient mysqlClient;
 
-	public MasterApprenticeSystemHttpServerInitializer(MasterApprenticeConfig config, JedisPool jedisPool,MySQLClient mysqlClient) {
+	public MasterApprenticeSystemHttpServerInitializer(MasterApprenticeConfig config, JedisPool jedisPool,
+			MySQLClient mysqlClient) {
 		this.config = config;
 		this.jedisPool = jedisPool;
-		this.mysqlClient=mysqlClient;
+		this.mysqlClient = mysqlClient;
+
+	}
+
+	public MasterApprenticeSystemHttpServerInitializer(MasterApprenticeConfig config, MySQLClient mysqlClient) {
+		this.config = config;
+		this.mysqlClient = mysqlClient;
 
 	}
 
@@ -43,6 +50,9 @@ public class MasterApprenticeSystemHttpServerInitializer extends ChannelInitiali
 		ChannelPipeline p = ch.pipeline();
 		p.addLast(new HttpServerCodec());
 		p.addLast(new HttpServerExpectContinueHandler());
-		p.addLast(new MasterApprenticeSystemHttpServerHandler(config, jedisPool,mysqlClient));
+		// p.addLast(new MasterApprenticeSystemHttpServerHandler(config,
+		// jedisPool,mysqlClient));
+		p.addLast(new MasterApprenticeSystemHttpServerHandler(config, mysqlClient));
+
 	}
 }

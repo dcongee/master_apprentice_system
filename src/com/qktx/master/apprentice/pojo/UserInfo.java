@@ -1,4 +1,4 @@
-package com.qktx.master.appentice.pojo;
+package com.qktx.master.apprentice.pojo;
 
 public class UserInfo {
 	Long parentUserID;
@@ -9,6 +9,11 @@ public class UserInfo {
 		this.parentUserID = parentUserID;
 		this.userID = userID;
 		this.level = level;
+	}
+
+	public UserInfo(Long parentUserID, Long userID) {
+		this.parentUserID = parentUserID;
+		this.userID = userID;
 	}
 
 	public UserInfo() {

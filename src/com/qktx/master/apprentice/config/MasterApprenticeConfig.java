@@ -16,6 +16,8 @@ public class MasterApprenticeConfig {
 	private String rabbitConsumerExchangeType;
 	private String rabbitConsumerRoutingKey;
 	private String rabbitConsumerQueueName;
+	private boolean rabbitConsumerAutomaticRecoveryEnable = true;
+	private boolean rabbitConsumerManualAck = true;
 
 	private String rabbitProduceHost;
 	private int rabbitProducePort;
@@ -89,34 +91,55 @@ public class MasterApprenticeConfig {
 			this.rabbitConsumerExchangeType = properties.getProperty("qktx.rabbitmq.consumer.exchange.type").trim();
 			this.rabbitConsumerRoutingKey = properties.getProperty("qktx.rabbitmq.consumer.routing.key").trim();
 			this.rabbitConsumerQueueName = properties.getProperty("qktx.rabbitmq.consumer.queue.name").trim();
+			this.rabbitConsumerAutomaticRecoveryEnable = Boolean
+					.valueOf(properties.getProperty("qktx.rabbitmq.consumer.automaticRecoveryEnable").trim());
+			this.rabbitConsumerManualAck = Boolean
+					.valueOf(properties.getProperty("qktx.rabbitmq.consumer.manualAck").trim());
 
-			this.rabbitProduceHost = properties.getProperty("qktx.rabbitmq.produce.host").trim();
-			this.rabbitProducePort = Integer.valueOf(properties.getProperty("qktx.rabbitmq.produce.port").trim());
-			this.rabbitProduceUser = properties.getProperty("qktx.rabbitmq.produce.user").trim();
-			this.rabbitProducePasswd = properties.getProperty("qktx.rabbitmq.produce.passwd").trim();
-			this.rabbitProduceExchangeName = properties.getProperty("qktx.rabbitmq.produce.exchange.name").trim();
-			this.rabbitProduceExchangeType = properties.getProperty("qktx.rabbitmq.produce.exchange.type").trim();
-			this.rabbitProduceRoutingKey = properties.getProperty("qktx.rabbitmq.produce.routing.key").trim();
-			this.rabbitProduceQueueName = properties.getProperty("qktx.rabbitmq.produce.queue.name").trim();
-			this.rabbitProduceExchangeDurable = Boolean
-					.valueOf(properties.getProperty("qktx.rabbitmq.produce.exchange.durable").trim());
-			this.rabbitProduceQueueDurable = Boolean
-					.valueOf(properties.getProperty("qktx.rabbitmq.produce.queue.durable").trim());
+			// this.rabbitProduceHost =
+			// properties.getProperty("qktx.rabbitmq.produce.host").trim();
+			// this.rabbitProducePort =
+			// Integer.valueOf(properties.getProperty("qktx.rabbitmq.produce.port").trim());
+			// this.rabbitProduceUser =
+			// properties.getProperty("qktx.rabbitmq.produce.user").trim();
+			// this.rabbitProducePasswd =
+			// properties.getProperty("qktx.rabbitmq.produce.passwd").trim();
+			// this.rabbitProduceExchangeName =
+			// properties.getProperty("qktx.rabbitmq.produce.exchange.name").trim();
+			// this.rabbitProduceExchangeType =
+			// properties.getProperty("qktx.rabbitmq.produce.exchange.type").trim();
+			// this.rabbitProduceRoutingKey =
+			// properties.getProperty("qktx.rabbitmq.produce.routing.key").trim();
+			// this.rabbitProduceQueueName =
+			// properties.getProperty("qktx.rabbitmq.produce.queue.name").trim();
+			// this.rabbitProduceExchangeDurable = Boolean
+			// .valueOf(properties.getProperty("qktx.rabbitmq.produce.exchange.durable").trim());
+			// this.rabbitProduceQueueDurable = Boolean
+			// .valueOf(properties.getProperty("qktx.rabbitmq.produce.queue.durable").trim());
 
-			this.redisHost = properties.getProperty("qktx.rabbitmq.produce.host").trim();
-			this.redisPort = Integer.valueOf(properties.getProperty("qktx.redis.port").trim());
-			this.redisPasswd = properties.getProperty("qktx.redis.passwd").trim();
-			this.testWhileIdle = Boolean.valueOf(properties.getProperty("qktx.redis.TestWhileIdle").trim());
-			this.minIdle = Integer.valueOf(properties.getProperty("qktx.redis.MinIdle").trim());
-			this.maxIdle = Integer.valueOf(properties.getProperty("qktx.redis.MaxIdle").trim());
-			this.maxTotal = Integer.valueOf(properties.getProperty("qktx.redis.MaxTotal").trim());
-			this.maxWaitMillis = Long.valueOf(properties.getProperty("qktx.redis.MaxWaitMillis").trim());
-
-			this.masterUserIDSKeyPrefix = properties.getProperty("qktx.master.userids.key.prefix").trim().toUpperCase();
-			this.apprenticeUserIDSKeyPrefix = properties.getProperty("qktx.apprentice.userids.key.prefix").trim()
-					.toUpperCase();
-			this.topMasterUserIDSKeyPrefix = properties.getProperty("qktx.top.master.userid.key.prefix").trim()
-					.toUpperCase();
+			// this.redisHost = properties.getProperty("qktx.rabbitmq.produce.host").trim();
+			// this.redisPort =
+			// Integer.valueOf(properties.getProperty("qktx.redis.port").trim());
+			// this.redisPasswd = properties.getProperty("qktx.redis.passwd").trim();
+			// this.testWhileIdle =
+			// Boolean.valueOf(properties.getProperty("qktx.redis.TestWhileIdle").trim());
+			// this.minIdle =
+			// Integer.valueOf(properties.getProperty("qktx.redis.MinIdle").trim());
+			// this.maxIdle =
+			// Integer.valueOf(properties.getProperty("qktx.redis.MaxIdle").trim());
+			// this.maxTotal =
+			// Integer.valueOf(properties.getProperty("qktx.redis.MaxTotal").trim());
+			// this.maxWaitMillis =
+			// Long.valueOf(properties.getProperty("qktx.redis.MaxWaitMillis").trim());
+			//
+			// this.masterUserIDSKeyPrefix =
+			// properties.getProperty("qktx.master.userids.key.prefix").trim().toUpperCase();
+			// this.apprenticeUserIDSKeyPrefix =
+			// properties.getProperty("qktx.apprentice.userids.key.prefix").trim()
+			// .toUpperCase();
+			// this.topMasterUserIDSKeyPrefix =
+			// properties.getProperty("qktx.top.master.userid.key.prefix").trim()
+			// .toUpperCase();
 
 			this.metaTableName = properties.getProperty("fd.meta.data.tablename").trim().toUpperCase();
 			this.metaDatabaseName = properties.getProperty("fd.meta.data.databasename").trim().toUpperCase();
@@ -227,6 +250,22 @@ public class MasterApprenticeConfig {
 
 	public void setRabbitConsumerQueueName(String rabbitConsumerQueueName) {
 		this.rabbitConsumerQueueName = rabbitConsumerQueueName;
+	}
+
+	public boolean getRabbitConsumerAutomaticRecoveryEnable() {
+		return rabbitConsumerAutomaticRecoveryEnable;
+	}
+
+	public void setRabbitConsumerAutomaticRecoveryEnable(boolean rabbitConsumerAutomaticRecoveryEnable) {
+		this.rabbitConsumerAutomaticRecoveryEnable = rabbitConsumerAutomaticRecoveryEnable;
+	}
+
+	public boolean getRabbitConsumerManualAck() {
+		return rabbitConsumerManualAck;
+	}
+
+	public void setRabbitConsumerManualAck(boolean rabbitConsumerManualAck) {
+		this.rabbitConsumerManualAck = rabbitConsumerManualAck;
 	}
 
 	public String getRabbitProduceHost() {
@@ -469,7 +508,6 @@ public class MasterApprenticeConfig {
 		this.httpPort = httpPort;
 	}
 
-	
 	public String getHttpHost() {
 		return httpHost;
 	}
