@@ -18,6 +18,7 @@ public class MasterApprenticeConfig {
 	private String rabbitConsumerQueueName;
 	private boolean rabbitConsumerAutomaticRecoveryEnable = true;
 	private boolean rabbitConsumerManualAck = true;
+	private String rabbitConsumerVirtualHost;
 
 	private String rabbitProduceHost;
 	private int rabbitProducePort;
@@ -96,6 +97,10 @@ public class MasterApprenticeConfig {
 			this.rabbitConsumerManualAck = Boolean
 					.valueOf(properties.getProperty("qktx.rabbitmq.consumer.manualAck").trim());
 
+			this.rabbitConsumerVirtualHost = properties.getProperty("qktx.rabbitmq.consumer.virtual.host").trim();
+			if (this.rabbitConsumerVirtualHost == null || this.rabbitConsumerVirtualHost.length() == 0) {
+				this.rabbitConsumerVirtualHost = "/";
+			}
 			// this.rabbitProduceHost =
 			// properties.getProperty("qktx.rabbitmq.produce.host").trim();
 			// this.rabbitProducePort =
@@ -626,6 +631,14 @@ public class MasterApprenticeConfig {
 
 	public void setMysqlPoolTimeBetweenEvictionRunsMillis(long mysqlPoolTimeBetweenEvictionRunsMillis) {
 		this.mysqlPoolTimeBetweenEvictionRunsMillis = mysqlPoolTimeBetweenEvictionRunsMillis;
+	}
+
+	public String getRabbitConsumerVirtualHost() {
+		return rabbitConsumerVirtualHost;
+	}
+
+	public void setRabbitConsumerVirtualHost(String rabbitConsumerVirtualHost) {
+		this.rabbitConsumerVirtualHost = rabbitConsumerVirtualHost;
 	}
 
 }

@@ -80,6 +80,7 @@ public class MasterApprenticeSystemMain {
 		consumerfactory.setAutomaticRecoveryEnabled(config.getRabbitConsumerAutomaticRecoveryEnable());
 		consumerfactory.setTopologyRecoveryEnabled(true);
 		consumerfactory.setNetworkRecoveryInterval(5);
+		consumerfactory.setVirtualHost(config.getRabbitConsumerVirtualHost());
 
 		MySQLClient mysqlClient = new MySQLClient(config);
 		MasterApprenticeSystemHandle dbHandler = new MasterApprenticeSystemHandle(mysqlClient, config);
